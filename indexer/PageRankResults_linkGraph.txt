@@ -1,0 +1,102 @@
+#1 Perplex: 1001926.0000260745
+#2 Perplex: 922006.4206691498
+#3 Perplex: 865481.2006490667
+#4 Perplex: 820222.2003707995
+#5 Perplex: 783861.9693524438
+#6 Perplex: 754419.2237980387
+#7 Perplex: 730423.2465951354
+#8 Perplex: 710759.1648393384
+#9 Perplex: 694570.3886100275
+#10 Perplex: 681190.662258148
+#11 Perplex: 670096.1135750291
+#12 Perplex: 660870.853566736
+#13 Perplex: 653181.9186315213
+#14 Perplex: 646760.756250288
+#15 Perplex: 641389.361939581
+#16 Perplex: 636889.7691518216
+#17 Perplex: 633115.9880994343
+#18 Perplex: 629947.756867991
+#19 Perplex: 627285.6488503114
+#20 Perplex: 625047.2078300471
+#21 Perplex: 623163.8695928896
+#22 Perplex: 621578.4920009802
+#23 Perplex: 620243.3596430965
+#24 Perplex: 619118.5632584254
+#25 Perplex: 618170.6755374774
+#26 Perplex: 617371.6651102118
+#27 Perplex: 616698.001603173
+#28 Perplex: 616129.9158752786
+#29 Perplex: 615650.786942924
+#30 Perplex: 615246.6317449389
+#31 Perplex: 614905.6806972685
+#32 Perplex: 614618.0224792337
+#33 Perplex: 614375.3079079537
+#34 Perplex: 614170.5013063437
+#35 Perplex: 613997.6723336929
+#36 Perplex: 613851.8211905186
+#37 Perplex: 613728.7317975949
+#38 Perplex: 613624.8484329537
+#39 Perplex: 613537.1717574538
+#40 Perplex: 613463.1716681712
+#41 Perplex: 613400.7134124448
+#42 Perplex: 613347.9959384229
+#43 Perplex: 613303.4994918508
+#44 Perplex: 613265.9415507427
+#45 Perplex: 613234.239801846
+#46 Perplex: 613207.4809898034
+#47 Perplex: 613184.8941273349
+#48 Perplex: 613165.8287495628
+#49 Perplex: 613149.7356630091
+#50 Perplex: 613136.1514562415
+#51 Perplex: 613124.6849660268
+#52 Perplex: 613115.006017119
+#53 Perplex: 613106.8359088715
+#54 Perplex: 613099.9394525258
+#55 Perplex: 613094.1180034061
+#56 Perplex: 613089.2040875189
+#57 Perplex: 613085.0561660872
+#58 Perplex: 613081.5548197862
+#59 Perplex: 613078.5992863019
+#60 Perplex: 613076.1044885762
+#61 Perplex: 613073.9985584087
+#62 Perplex: 613072.2209024457
+#63 Perplex: 613070.7203429362
+#64 Perplex: 613069.4536990502
+#65 Perplex: 613068.3844664517
+#66 Perplex: 613067.4819016696
+#67 Perplex: 613066.720035521
+#68 Perplex: 613066.0769528478
+#69 Perplex: 613065.5340977026
+#70 Perplex: 613065.0758775999
+#71 Perplex: 613064.6891132235
+#72 Perplex: 613064.3625987357
+#73 Perplex: 613064.0869912578
+#74 Perplex: 613063.8543310456
+#75 Perplex: 613063.6579424798
+#76 Perplex: 613063.492168272
+#77 Perplex: 613063.3522386802
+
+
+Page ranks in descending order
+1 - http://indianhealthyrecipes.com/poornam-boorelu-recipe-navratri-naivedhyam/ 3.806183131512116E-6
+2 - http://www.homemadevegetarianrecipes.com/ 3.259819060233169E-6
+3 - http://www.mintsrecipes.com/maggi-noodles-in-magic-masala-style-indian-vegetarian-recipes/ 3.1427410655218686E-6
+4 - http://allrecipes.com/membership/signinsignup.aspx 3.0256630708105688E-6
+5 - http://allrecipes.com/features/digitalmagazines.aspx 2.925429939923667E-6
+6 - http://indianhealthyrecipes.com/recipes/baby-toddler/page/4/ 2.921593710191787E-6
+7 - http://www.gujaratirecipes.in/ 2.8695590298823952E-6
+8 - http://allrecipes.com/Recipes/World-Cuisine/European/Italian/daily.aspx 2.8409399773031284E-6
+9 - http://indianhealthyrecipes.com/shahi-tukda-double-ka-meeta-recipe-with-almond-milk/ 2.8110200325267453E-6
+10 - http://www.cookingandme.com/2010/03/sakkarai-pongal-chakkara-pongal-recipe.html 2.811020032526745E-6
+ 
+Page outlink count
+1 - http://www.webmd.com/sitemap/food-and-recipes   1388
+2 - http://www.simplyrecipes.com/index/   626
+3 - http://allrecipes.com/cook/foodwisheswithchefjohn/   551
+4 - http://www.jeyashriskitchen.com/p/recipe-index.html   452
+5 - http://www.foodfood.com/category/recipes/by-ingredients/   441
+6 - http://www.deliaonline.com/recipes/galleries   423
+7 - http://foodviva.com/all-recipes-list/   421
+8 - http://www.sharmispassions.com/2013/02/lemon-aval-upma-recipe-lemon-aval-poha.html   401
+9 - http://allrecipes.com/cook/15278401/profile.aspx   398
+10 - http://www.healthyseasonalrecipes.com/recipe-index/   381
